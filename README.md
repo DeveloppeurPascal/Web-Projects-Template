@@ -19,7 +19,11 @@ Follow my development streams of software, video games, mobile applications and 
 
 ## Using this script
 
-to complete
+Copy the files from the ./src subfolder to your site location (root of a domain, subdomain, or subfolder of an existing site).
+
+OOOOOOOOOOOOOOOOOOOOO
+O to complete
+OOOOOOOOOOOOOOOOOOOOO
 
 You can also [visit the script website](EEE) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 

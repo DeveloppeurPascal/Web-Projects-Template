@@ -19,7 +19,11 @@ Suivez mes streams de développement de logiciels, jeux vidéo, applications mob
 
 ## Utiliser ce script
 
-à compléter
+Copiez les fichiers du sous-dossier ./src à l'emplacement de votre site (racine d'un domaine, d'un sous-domaine ou dans un sous-dossier d'un site existant.
+
+OOOOOOOOOOOOOOOOOOOOO
+O à compléter
+OOOOOOOOOOOOOOOOOOOOO
 
 Vous pouvez aussi [consulter le site du script](EEE) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
