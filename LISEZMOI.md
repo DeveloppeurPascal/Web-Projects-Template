@@ -34,10 +34,6 @@ Ce projet utilise des dépendances sous forme de sous modules. Ils seront absent
 
 ## Compatibilité
 
-When I code, I work locally with XAMPP on Windows. My projects work for this stack.
-
-There's no guarantee of compatibility with other versions, even though I try to keep my code clean and avoid using too many specific things.
-
 Quand je développe, je travaille localement avec XAMPP sur Windows. Mes projets fonctionnent avec cette stack.
 
 Aucune garantie de compatibilité avec d'autres logiciels ou versions n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser de trucs spécifiques.
