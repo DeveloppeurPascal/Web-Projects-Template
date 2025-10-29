@@ -46,18 +46,18 @@ If you detect any anomalies on earlier versions, please don't hesitate to [repor
 
 ## License to use this code repository and its contents
 
-This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
+This source code is distributed under the [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
 
-You are generally free to use the contents of this code repository anywhere, provided that:
+You are free to use the contents of this code repository anywhere provided :
 * you mention it in your projects
-* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* distribute the modifications made to the files provided in this AGPL-licensed project (leaving the original copyright notices (author, link to this repository, license) must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
 
-If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://trucs-de-developpeur-web.fr/nous-contacter.php) to explain your needs).
+If this license doesn't suit your needs (especially for a commercial project) I also offer [classic licenses for developers and companies](https://BBB.trucs-de-developpeur-web.fr).
 
-These source codes are provided as is, without warranty of any kind.
+Some elements included in this repository may depend on third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
-Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
+The source codes of this code repository as well as any compiled version are provided “as is” without warranty of any kind.
 
 ## How to ask a new feature, report a bug or a security issue ?
 
