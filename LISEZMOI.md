@@ -25,7 +25,7 @@ OOOOOOOOOOOOOOOOOOOOO
 O à compléter
 OOOOOOOOOOOOOOOOOOOOO
 
-Vous pouvez aussi [consulter le site du script](EEE) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+Vous pouvez aussi [consulter le site du script](https://BBB.trucs-de-developpeur-web.fr) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
 ## Installation des codes sources
 
@@ -53,7 +53,7 @@ Vous êtes libre d'utiliser le contenu de ce dépôt de code n'importe où à co
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
 
-Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi [des licences classiques pour les développeurs et les entreprises](https://BBB.developpeur-pascal.fr).
+Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi [des licences classiques pour les développeurs et les entreprises](https://BBB.trucs-de-developpeur-web.fr).
 
 Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
 

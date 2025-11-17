@@ -25,7 +25,7 @@ OOOOOOOOOOOOOOOOOOOOO
 O to complete
 OOOOOOOOOOOOOOOOOOOOO
 
-You can also [visit the script website](EEE) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+You can also [visit the script website](https://BBB.trucs-de-developpeur-web.fr) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
 ## Source code installation
 
